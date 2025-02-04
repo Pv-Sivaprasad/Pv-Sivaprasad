@@ -20,14 +20,14 @@
 
 ##  Inventory Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,docker,kubernetes,aws,c,c++,npm,linux" />
 </p>
 
 ---
 
 ##  My Current Level
 -  Building **Renewa**, a hospital mangement platform
--  
+-  Levling up to be Senior web developer
 
 ---
 
@@ -40,6 +40,6 @@
 
  <!--  ---  -->
 
-🧙‍♂️ *May the Code be with You!* 
-<p align="center"><b>✨ Simply crafted by ChatGPT ✨</b></p>
+🧙‍♂️ *Arise !!* 
+<!-- <p align="center"><b>✨ Simply crafted by ChatGPT ✨</b></p> -->
 
