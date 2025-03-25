@@ -25,9 +25,9 @@
 
 ---
 
-##  My Current Level
+## Now I'm 
 -  Building **Renewa**, a hospital mangement platform
--  Levling up to be Senior web developer
+-  Levling up to be  web developer
 
 ---
 
